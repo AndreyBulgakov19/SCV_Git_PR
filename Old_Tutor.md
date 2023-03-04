@@ -88,15 +88,3 @@ git checkout -b <name>
 ```
 
 
-
-## Прочее
-
-add iso
-![Если не загрузится смотри там](Zoolander.jpg)
-![Может быть здесь](Zoolander1.jpg)
-
-### Dcnfdbnm видео с ютуба
-
-На чистом Markdown, но без размеров изображения и рамки:
-
-[![Текст для изображения](tri-chernyx-gladkix-zherebca.jpg)](https://www.youtube.com/watch?v=H16-5MeuBwU)
