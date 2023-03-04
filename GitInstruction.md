@@ -151,3 +151,4 @@ git pull
 ```
 git clone <URL- ссылка>
 ```
+# 8. Pull request
